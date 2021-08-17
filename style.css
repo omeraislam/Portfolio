@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    
+}
+#apps
+{
+    background-color: darkturquoise;
+    color: darkslateblue;
+    
+}
+#games{
+    background:linear-gradient(cyan 0%,blue 100%);
+    color: azure;
+    
+}
+a{
+    color: aquamarine;
+}
+
+#chatbots{
+    background-color: aqua;
+    color: blueviolet;
+}
